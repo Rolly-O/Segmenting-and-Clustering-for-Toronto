@@ -1,3 +1,5 @@
 # Segmenting-and-Clustering-for-Toronto
 This contains the workbooks for Coursera Assignment Week 3 out of 4:
-<br> Segmenting and Clustering Toronto(1) is part 1 that involves web scraping from Wikipedia and manipulating the table
+<br>
+<br> Segmenting and Clustering Toronto(1) is part 1 that involves web scraping from Wikipedia and manipulating the table.
+<br> Segmenting and Clustering Part 2 is the second part that involves importing longitude and latitude for Toronto and merging the two dataframes into one.
